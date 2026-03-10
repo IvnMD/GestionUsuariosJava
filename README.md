@@ -2,15 +2,6 @@
 
 Sistema de autenticación y gestión de usuarios por consola, desarrollado con arquitectura por capas y buenas prácticas de programación orientada a objetos para la asignatura de programacion del ciclo superior de formacion profesional de DAM.
 
-<div align="center">
-
-`https://img.shields.io/badge/Java-17-orange`  
-`https://img.shields.io/badge/Maven-Build-blue`  
-`https://img.shields.io/badge/Estado-En%20Desarrollo-yellow`  
-`https://img.shields.io/badge/License-MIT-green`
-
-</div>
-
 ---
 
 ## 📌 Descripción del proyecto
