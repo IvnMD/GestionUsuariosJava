@@ -150,11 +150,6 @@ src/
       └── UserServiceImpl.java
 ```
 
----
-
-## 📜 Licencia
-
-Este proyecto está bajo licencia **Apache-2.0**.
 
 ---
 
@@ -166,4 +161,10 @@ Este proyecto es una excelente base para aprender:
 - Buenas prácticas de OOP  
 - Validaciones y normalización  
 - Gestión de usuarios  
-- Diseño limpio y mantenible  
+- Diseño limpio y mantenible
+
+---
+
+## 📜 Licencia
+
+Este proyecto está bajo licencia **Apache-2.0**.
