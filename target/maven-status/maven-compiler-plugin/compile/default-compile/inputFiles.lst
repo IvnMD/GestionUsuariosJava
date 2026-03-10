@@ -1,0 +1,10 @@
+/home/dam/Documentos/Programacion_DAM1/TEMA_5/Tareas_Evaluables/TE4.3/tarea-calificable-4.3/src/main/java/com/docencia/model/Usuario.java
+/home/dam/Documentos/Programacion_DAM1/TEMA_5/Tareas_Evaluables/TE4.3/tarea-calificable-4.3/src/main/java/com/docencia/app/Main.java
+/home/dam/Documentos/Programacion_DAM1/TEMA_5/Tareas_Evaluables/TE4.3/tarea-calificable-4.3/src/main/java/com/docencia/util/Validaciones.java
+/home/dam/Documentos/Programacion_DAM1/TEMA_5/Tareas_Evaluables/TE4.3/tarea-calificable-4.3/src/main/java/com/docencia/model/Persona.java
+/home/dam/Documentos/Programacion_DAM1/TEMA_5/Tareas_Evaluables/TE4.3/tarea-calificable-4.3/src/main/java/com/docencia/service/IUserService.java
+/home/dam/Documentos/Programacion_DAM1/TEMA_5/Tareas_Evaluables/TE4.3/tarea-calificable-4.3/src/main/java/com/docencia/repository/IUserRepository.java
+/home/dam/Documentos/Programacion_DAM1/TEMA_5/Tareas_Evaluables/TE4.3/tarea-calificable-4.3/src/main/java/com/docencia/service/IAuthService.java
+/home/dam/Documentos/Programacion_DAM1/TEMA_5/Tareas_Evaluables/TE4.3/tarea-calificable-4.3/src/main/java/com/docencia/service/impl/UserServiceImpl.java
+/home/dam/Documentos/Programacion_DAM1/TEMA_5/Tareas_Evaluables/TE4.3/tarea-calificable-4.3/src/main/java/com/docencia/repository/impl/UserRepositoryImpl.java
+/home/dam/Documentos/Programacion_DAM1/TEMA_5/Tareas_Evaluables/TE4.3/tarea-calificable-4.3/src/main/java/com/docencia/service/impl/AuthServiceImpl.java
